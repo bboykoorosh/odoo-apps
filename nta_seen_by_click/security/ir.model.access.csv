@@ -1,3 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-gen_ir_model_seen_registery, ir_model_seen_registery General Access,nta_seen_by_click.model_ir_model_seen_registery,,1,0,1,0
-gen_nta_seen_by_click, nta_seen_by_click General Access,nta_seen_by_click.model_nta_seen_by_click,,1,0,1,0
