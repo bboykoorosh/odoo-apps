@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="altering_click_function_binding_of_tree_view_js" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <script type="text/javascript" src="nta_seen_by_click/static/src/js/List_and_Kanban.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>
